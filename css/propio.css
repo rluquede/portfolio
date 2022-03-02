@@ -1,0 +1,18 @@
+nav{
+    background-color: black;
+}
+.nav-link{
+    color: aquamarine;
+}
+.botonMenu{
+    background-color: aquamarine;
+}
+#inicio{
+    background-color: black;
+}
+.header-bg-img {
+    background-image: url(../images/header-bg3.jpg);
+    position: relative;
+    background-size: cover;
+    background-position: center center;
+}
